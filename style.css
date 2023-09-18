@@ -435,6 +435,7 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 80px;
+	justify-content: center;
 }
 .services__item {
 	flex: 0 1 350px;
